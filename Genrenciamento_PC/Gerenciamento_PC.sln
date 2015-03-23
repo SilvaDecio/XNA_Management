@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciamento_PC", "Gerenciamento_PC\Gerenciamento_PC\Gerenciamento_PC.csproj", "{668E4330-BCD7-459C-9EFD-22BFB7ECE864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciamento_PCContent", "Gerenciamento_PC\Gerenciamento_PCContent\Gerenciamento_PCContent.contentproj", "{B6AF1C42-0477-48CA-8C43-6D852D14C417}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668E4330-BCD7-459C-9EFD-22BFB7ECE864}.Debug|x86.ActiveCfg = Debug|x86
+		{668E4330-BCD7-459C-9EFD-22BFB7ECE864}.Debug|x86.Build.0 = Debug|x86
+		{668E4330-BCD7-459C-9EFD-22BFB7ECE864}.Release|x86.ActiveCfg = Release|x86
+		{668E4330-BCD7-459C-9EFD-22BFB7ECE864}.Release|x86.Build.0 = Release|x86
+		{B6AF1C42-0477-48CA-8C43-6D852D14C417}.Debug|x86.ActiveCfg = Debug|x86
+		{B6AF1C42-0477-48CA-8C43-6D852D14C417}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
